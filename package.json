@@ -1,0 +1,20 @@
+{
+  "name": "qranalytics-fbmessages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "crypto-js": "^3.1.9-1",
+    "csvtojson": "^1.1.4",
+    "jsonwebtoken": "^7.3.0",
+    "pg": "^6.1.2",
+    "sequelize": "^3.30.2",
+    "underscore": "^1.8.3"
+  }
+}
